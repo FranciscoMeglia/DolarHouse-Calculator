@@ -65,7 +65,7 @@ main {
     height: 40px;
     background-color: white;
     border: 1px solid black;
-    color: white;
+    color: black;
     transition: 0.2s;
     cursor: pointer;
 }
