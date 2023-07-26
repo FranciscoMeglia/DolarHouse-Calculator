@@ -65,6 +65,7 @@ main {
     height: 40px;
     background-color: white;
     border: 1px solid black;
+    color: white;
     transition: 0.2s;
     cursor: pointer;
 }
@@ -87,6 +88,7 @@ main {
     margin-top: 10px;
     margin-bottom: 10px;
     border: 1px solid rgb(0, 0, 0);
+    border-radius: 0;
     text-align: center;
 }
 
